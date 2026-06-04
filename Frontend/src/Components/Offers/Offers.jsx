@@ -1,3 +1,5 @@
+import "./Offers.css"
+
 const Offers = () => {
   return (
     <div>
