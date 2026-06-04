@@ -13,7 +13,7 @@ const Hero = () => {
                 <p>Discover</p>
                 <img src={hand_icon} alt="" />
             </div>
-            <p> our latest collection of trendy fashion </p>
+            <p> our latest collection of <br /> trendy fashion </p>
             <p>items for everyone</p>
         </div>
         <div className="hero-latest-btn">
